@@ -10,7 +10,7 @@ void createsub(int item,struct node *ptr)
 {
 int i;
 char ch;
-printf("\nDO YOU WANT TO CREATE A LEFT SUBTREE OF %d(y/n)",item);
+printf("\nDO YOU WANT TO CREATE A LEFT SUBTREEEEE OF %d(y/n)",item);
 scanf("%c",&ch);
 if(ch=='y')
 {
